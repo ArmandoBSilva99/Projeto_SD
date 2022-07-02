@@ -1,6 +1,6 @@
 # Projeto_SD
 
-**Airport System**
+**Airport Reservation and Consulting System**
 
 #### Contributors:
  - [André Silva](https://github.com/AndreFGSilva)
